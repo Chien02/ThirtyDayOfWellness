@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ThirdtyDayOfWellness</string>
+    <string name="day1">Day 1</string>
+    <string name="title1">This is card of day 1</string>
+    <string name="subtitle1">This is card of day 1s subtitle</string>
+    <string name="day2">Day 2</string>
+    <string name="title2">This is card of day 1</string>
+    <string name="subtitle2">This is card of day 1s subtitle</string>
+    <string name="day3">Day 3</string>
+    <string name="title3">This is card of day 1</string>
+    <string name="subtitle3">This is card of day 1s subtitle</string>
+    <string name="day4">Day 4</string>
+    <string name="title4">This is card of day 1</string>
+    <string name="subtitle4">This is card of day 1s subtitle</string>
+    <string name="day5">Day 5</string>
+    <string name="title5">This is card of day 1</string>
+    <string name="subtitle5">This is card of day 1s subtitle</string>
+    <string name="day6">Day 6</string>
+    <string name="title6">This is card of day 1</string>
+    <string name="subtitle6">This is card of day 1s subtitle</string>
+    <string name="day7">Day 7</string>
+    <string name="title7">This is card of day 1</string>
+    <string name="subtitle7">This is card of day 1s subtitle</string>
+    <string name="day8">Day 8</string>
+    <string name="title8">This is card of day 1</string>
+    <string name="subtitle8">This is card of day 1s subtitle</string>
+    <string name="day9">Day 9</string>
+    <string name="title9">This is card of day 1</string>
+    <string name="subtitle9">This is card of day 1s subtitle</string>
+    <string name="day10">Day 10</string>
+    <string name="title10">This is card of day 1</string>
+    <string name="subtitle10">This is card of day 1s subtitle</string>
+
+</resources>
