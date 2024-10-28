@@ -83,7 +83,7 @@ fun WellnessCardList(
             horizontalAlignment = Alignment.CenterHorizontally,
             modifier = modifier
                 .padding(dimensionResource(R.dimen.padding_small))
-        ) {
+        ) { 
             items(cardList) { card ->
                 WellnessCardComponent(
                     wellnessCard = card,
